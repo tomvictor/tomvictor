@@ -1,6 +1,6 @@
 ### Hi, I'm Tom Victor 👋
 
-I'm a software engineer who is passionate about making handcrafted source code for the future generations. Some technologies I enjoy working with include Python, Golang, Django, FastAPI, Docker, Electronics, Embedded, IoT, React, Angular, Nodejs and GraphQL. 
+I'm a Embedded/Software engineer who is passionate about making handcrafted source code for the future generations. Some technologies I enjoy working with include C, Python, Golang, Django, FastAPI, Docker, Electronics, Embedded, IoT, React, Angular, Nodejs and GraphQL. 
 
 
 <h3 align="left">Connect with me:</h3>
