@@ -1,6 +1,6 @@
 ### Hi, I'm Tom Victor 👋
 
-I am a computer programmer, entrepreneur, and technology enthusiast based in Gothenburg, Sweden. I am deeply committed to empowering the next generation with computer and coding literacy, as I believe it is essential for them to think logically and navigate the digital world. I am passionate about writing code to craft and manifest ideas, as well as solving technical challenges. I believe that coding literacy is not only important for children but also for everyone, as it can open up new opportunities for creation and innovation.
+I am a computer programmer, entrepreneur, and technology enthusiast. I am deeply committed to empowering the next generation with computer and coding literacy, as I believe it is essential for them to think logically and navigate the digital world. I am passionate about writing code to craft and manifest ideas, as well as solving technical challenges. I believe that coding literacy is not only important for children but also for everyone, as it can open up new opportunities for creation and innovation.
 
 My expertise and technology stack include:
 
