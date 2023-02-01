@@ -19,3 +19,8 @@ My expertise and technology stack include:
   <li><a href="https://www.youtube.com/@tomvictor" target="blank">YouTube</a></li>
   <li><a href="https://topmate.io/tom" target="blank">Consult</a></li>
 </ul>
+
+<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tomvictor&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
