@@ -16,7 +16,6 @@ My expertise and technology stack include:
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/vjtomvictor/" target="blank">LinkedIn</a></li>
-  <li><a href="https://www.youtube.com/@tomvictor" target="blank">YouTube</a></li>
   <li><a href="https://topmate.io/tom" target="blank">Consult</a></li>
 </ul>
 
