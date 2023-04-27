@@ -15,7 +15,8 @@ My expertise and technology stack include:
 
 <h3 align="left">Connect with me:</h3>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vjtomvictor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/vjtomvictor?trk=profile-badge">Tom Victor</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="vjtomvictor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/vjtomvictor?trk=profile-badge">Linkedin</a></div>
+              
 
 <br>
 <p align="center">
