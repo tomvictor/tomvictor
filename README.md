@@ -4,7 +4,7 @@ I am a computer programmer, entrepreneur, and technology enthusiast.
 
 My expertise and technology stack include:
 
-* Programming languages such as Python, C, Go, and JavaScript
+* Programming languages such as Python, C, Go, Rust and JavaScript
 * Backend development and Linux servers
 * Frameworks like Node, Django, FastAPI, Flask, and React
 * Embedded programming and Real-time Operating Systems (RTOS)
