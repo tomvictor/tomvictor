@@ -1,12 +1,13 @@
 ### Hi, I'm Tom Victor 👋
 
-I am a computer programmer, entrepreneur, and technology enthusiast.
+I am an engineer, entrepreneur, and technology enthusiast.
 
 My expertise and technology stack include:
 
-* Programming languages such as Python, C, Go, Rust and JavaScript
+* Programming languages such as C, Rust, Go and Python.
 * Backend development and Linux servers
-* Frameworks like Node, Django, FastAPI, Flask, and React
+* Frameworks like tokio.rs, tonic-rs, Django, FastAPI, Flask etc
+* Anchor - Solana Sealevel Framework
 * Embedded programming and Real-time Operating Systems (RTOS) [Zephyr, Nuttex etc]
 * BLE(nRF52840), LTE (nRF9160) and WiFi (ESP32)
 * Internet of Things (IoT) and Real-time communication
@@ -14,10 +15,7 @@ My expertise and technology stack include:
 * Microservices and Serverless stacks
 * Relational and Document databases.
 
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://topmate.io/tom">Need Support</a>
+6UyTUwUvdFgXSP4giZ6SQfsmKv3QTKEr6GaoEA8kDvGW 🚀
 
 <br>
 <p align="center">
